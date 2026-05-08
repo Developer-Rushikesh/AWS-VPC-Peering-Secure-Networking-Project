@@ -77,6 +77,5 @@ Add:
 
 ---
 
-## 👨‍💻 Rushikesh Pawar
-
-Jasmeen
+## 👨‍💻 Author
+Rushikesh Pawar
